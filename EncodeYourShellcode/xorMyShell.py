@@ -44,4 +44,4 @@ try:
 	print("".join(test))
 
 except:
-	print "usage : %s " % sys.argv[0]
+	print "usage : %s [SHELLCODE] " % sys.argv[0]
